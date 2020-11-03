@@ -1,0 +1,11 @@
+{
+  "name": "oidc-provider-study",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "oidc-provider": "^6.29.5"
+  }
+}
